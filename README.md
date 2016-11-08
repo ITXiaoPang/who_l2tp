@@ -15,10 +15,10 @@ cd who_l2tp
 
 Add exec permission
 
-`chmod +x wl2tp`
+`chmod +x wl2tp.sh`
 
 Copy to path:
 
-`cp -a wl2tp /usr/bin `
+`cp -a wl2tp.sh /usr/bin `
 
 ## Enjoy it
